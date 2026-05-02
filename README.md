@@ -26,6 +26,5 @@ The model learns the relationship between hours studied and exam scores, then pr
 * Accuracy: ~98%
 
 ## Example
-
-Input: 6 hours
-Predicted Score: ~60
+- Input: 6 hours  
+- Predicted Score: ~60
